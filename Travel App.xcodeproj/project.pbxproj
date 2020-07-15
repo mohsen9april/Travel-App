@@ -42,7 +42,6 @@
 		ED0D27DB24BEE20C005107D0 = {
 			isa = PBXGroup;
 			children = (
-				ED0D27FB24BF20B4005107D0 /* Readme.md */,
 				ED0D27E624BEE20C005107D0 /* Travel App */,
 				ED0D27E524BEE20C005107D0 /* Products */,
 			);
@@ -65,6 +64,7 @@
 				ED0D27ED24BEE20E005107D0 /* Assets.xcassets */,
 				ED0D27F224BEE20E005107D0 /* LaunchScreen.storyboard */,
 				ED0D27F524BEE20E005107D0 /* Info.plist */,
+				ED0D27FB24BF20B4005107D0 /* Readme.md */,
 				ED0D27EF24BEE20E005107D0 /* Preview Content */,
 			);
 			path = "Travel App";
